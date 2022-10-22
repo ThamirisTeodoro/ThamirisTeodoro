@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Você  pode me seguir nas redes abaixo! 😁
+  ### Você  pode me seguir nas redes abaixo! 🤩
  
 <div> 
   
