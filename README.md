@@ -1,4 +1,7 @@
-## Bem-vindo(a) ao Meu perfil  😁
+## Bem-vindo(a) ao Meu perfil. 
+Me Chamo Thamiris tenho 24 anos e sou uma programadora frontend em formação.
+Sou uma garota apaixonada por desafios, tecnologia, gamers e desenvolvimento pessoal.🤩
+Acredito que tudo é possível com dedicação e resiliência. 🚀❤
 
  <div>
    <a href="https://github.com/ThamirisTeodoro">
